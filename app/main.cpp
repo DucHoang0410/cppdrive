@@ -6,5 +6,5 @@
 
 int main() {
     Dummy dummy;
-    dummy.sayHelloTo("betty");
+    dummy.sayHelloTo("hoang");
 }
